@@ -7,6 +7,9 @@
       <li>
         <a href="https://devcenter.heroku.com/articles/how-heroku-works"><span class="glyphicon glyphicon-user"></span> How Heroku Works</a>
       </li>
+      <li class="active">
+        <a href="hello"><span class="glyphicon glyphicon-home"></span> Hello World</a>
+      </li>
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-info-sign"></span> Getting Started Guides <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
