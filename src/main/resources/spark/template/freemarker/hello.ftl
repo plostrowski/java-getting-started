@@ -23,5 +23,9 @@
   <div class="alert alert-info text-center" role="alert">
     <span class="glyphicon glyphicon-info-sign"></span> Czy wiesz, że?.
   </div>
+  <hr>
+  
+  ${massMessage}
+  
 </body>
 </html>
